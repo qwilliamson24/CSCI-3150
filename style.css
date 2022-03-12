@@ -32,5 +32,11 @@ em {
 p {
    border: 2px solid blue;
 }
+div.ex2 {
+  width: 300px;
+  padding: 25px;
+  box-sizing: border-box;
+  background-color: lightblue;
+}
 
 
