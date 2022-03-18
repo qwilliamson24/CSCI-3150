@@ -172,25 +172,25 @@ main {
 
 #leftbox {
   float: left;
-  background: pink;
+  background: rgb(255,182,193);
   width: 25%;
-  height: 280px;
+  height: 300px;
   text-align: center;
 }
 
 #middlebox {
   float: left;
-  background: lightyellow;
+  background: rgb(250,250,210);
   width: 50%;
-  height: 280px;
+  height: 300px;
   text-align: center;
 }
 
 #rightbox {
   float: right;
-  background: lightblue;
+  background: rgb(173,216,230);
   width: 25%;
-  height: 280px;
+  height: 300px;
   text-align: center;
 }
 
